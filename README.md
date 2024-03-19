@@ -8,13 +8,12 @@
 
 - 💬 Ask me about **Java (core, J2EE), Node.js**
 
-- 📫 How to reach me **udbhavsbg@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/udbhav-ojha-354804216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udbhav ojha" height="30" width="40" /></a>
-  <a href="https://instagram.com/udbhaavv._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="udbhaavv._" height="30" width="40" /></a>
-</p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Udbhav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/hi-manss/](https://www.linkedin.com/in/udbhav-ojha-354804216/))](https://www.linkedin.com/in/udbhav-ojha-354804216/)
+[![Gmail Badge](https://img.shields.io/badge/-udbhavsbg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:udbhavsbg@gmail.com)](mailto:udbhavsbg@gmail.com)  
+[![Instagram](https://img.shields.io/badge/-udbhaavv-c13584?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/udbhaavv._)
+
 
 <p align="center">
   <h3>🛠 Tech Stack 🛠</h3>
