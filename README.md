@@ -16,57 +16,32 @@
   <a href="https://instagram.com/udbhaavv._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="udbhaavv._" height="30" width="40" /></a>
 </p>
 
-<div>
-
-  <h3 align="left">Languages and Tools:</h3>
-  <p align="left">
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30" style="margin-right: 10px;"/>
-    </a> 
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30" style="margin-right: 10px;"/>
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30" style="margin-right: 10px;"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" style="margin-right: 10px;"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30" style="margin-right: 10px;"/>
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30" style="margin-right: 10px;"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" style="margin-right: 10px;"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30" style="margin-right: 10px;"/>
-    </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="30" height="30" style="margin-right: 10px;"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30" style="margin-right: 10px;"/>
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30" style="margin-right: 10px;"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30" style="margin-right: 10px;"/>
-    </a>
+<p align="center">
+  <h3>🛠 Tech Stack 🛠</h3>
+  <p align="center">
+    <img src="https://img.shields.io/badge/-Java-000000?style=flat&logo=Java" alt="Java" />
+    <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python" alt="Python" />
+    <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=Figma" alt="Figma" />
+    <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=Express" alt="Express" />
+    <img src="https://img.shields.io/badge/-Tableau-000000?style=flat&logo=Tableau" alt="Tableau" />
+    <img src="https://img.shields.io/badge/-Jira-000000?style=flat&logo=Jira" alt="Jira" />
+    <img src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js" alt="Node.js" />
+    <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5" alt="HTML5" />
+    <img src="https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3" alt="CSS3" />
+    <img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL" alt="MySQL" />
+    <img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=GitHub&logoColor=FFFFFF" alt="GitHub" />
+    <img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=Git&logoColor=F05032" alt="Git" />
   </p>
+</p>
 
-</div>
-<p>
+<div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshu-99&show_icons=true&locale=en&layout=compact" alt="anshu-99" />
-</p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=anshu-99&show_icons=true&locale=en" alt="anshu-99" />
+</div>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anshu-99&show_icons=true&locale=en" alt="anshu-99" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshu-99&" alt="anshu-99" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshu-99&" alt="anshu-99" />
 </p>
