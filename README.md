@@ -37,6 +37,7 @@
 
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshu-99&show_icons=true&locale=en&layout=compact" alt="anshu-99" />
+  
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=anshu-99&show_icons=true&locale=en" alt="anshu-99" />
 </div>
 
