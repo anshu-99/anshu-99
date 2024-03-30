@@ -24,6 +24,7 @@
     <img src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=Figma" alt="Figma" />
     <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=Express" alt="Express" />
     <img src="https://img.shields.io/badge/-Tableau-000000?style=flat&logo=Tableau" alt="Tableau" />
+    <img src="https://img.shields.io/badge/-PowerBI-000000?style=flat&logo=PowerBI" alt="PowerBI" />
     <img src="https://img.shields.io/badge/-Jira-000000?style=flat&logo=Jira" alt="Jira" />
     <img src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js" alt="Node.js" />
     <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript" alt="JavaScript" />
