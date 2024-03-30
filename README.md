@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Spring, Springboot**
 
-- 💬 Ask me about **Java (core, J2EE), Node.js**
-
 <h3 align="left">Connect with me:</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Udbhav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/hi-manss/](https://www.linkedin.com/in/udbhav-ojha-354804216/))](https://www.linkedin.com/in/udbhav-ojha-354804216/)
