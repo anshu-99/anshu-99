@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/-Java-000000?style=flat&logo=Java" alt="Java" />
     <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python" alt="Python" />
     <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=Figma" alt="Figma" />
+<!--     <img src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=Figma" alt="Figma" /> -->
     <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=Express" alt="Express" />
     <img src="https://img.shields.io/badge/-Tableau-000000?style=flat&logo=Tableau" alt="Tableau" />
     <img src="https://img.shields.io/badge/-PowerBI-000000?style=flat&logo=PowerBI" alt="PowerBI" />
