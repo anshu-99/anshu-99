@@ -35,6 +35,6 @@
 </p>
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshu-99&show_icons=true&locale=en&layout=compact" alt="anshu-99" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshu-99&show_icons=true&locale=en&layout=compact" alt="anshu-99" height="400px" width="450px" />
 </div>
 
