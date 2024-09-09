@@ -29,6 +29,7 @@
     <img src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5" alt="HTML5" />
     <img src="https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3" alt="CSS3" />
     <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL" alt="MySQL" />
+    <img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL&logoColor=F05032" alt="PostgreSQL" />
     <img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=GitHub&logoColor=FFFFFF" alt="GitHub" />
     <img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=Git&logoColor=F05032" alt="Git" />
   </p>
