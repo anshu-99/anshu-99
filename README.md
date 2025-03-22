@@ -37,6 +37,6 @@
 ---
 
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=udbhav-ojha&show_icons=true&locale=en&layout=compact" alt="udbhav-ojha" height="200px" width="450px" />
-  <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3lheGEycG5xd3FwaDZjODJwZ3RqcDN0ZXR6dWplNzR4OHc3eHZmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="350px" alt="Coding GIF">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshu-99&show_icons=true&locale=en&layout=compact" alt="anshu-99" height="400px" width="450px" />
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3lheGEycG5xd3FwaDZjODJwZ3RqcDN0ZXR6dWplNzR4OHc3eHZmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="350px" alt="Coding GIF">
 </div>
