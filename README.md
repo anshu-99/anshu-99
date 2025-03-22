@@ -37,21 +37,20 @@
 ---
 
 <div align="center">
-  <table style="border-collapse: collapse; border: none;" cellspacing="0" cellpadding="0">
+  <table style="border-collapse: collapse; border: none; padding: 0; margin: 0;">
     <tr>
       <!-- GitHub Stats -->
-      <td style="border: none;">
+      <td style="border: none; padding: 0;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshu-99&show_icons=true&locale=en&layout=compact" 
              alt="anshu-99" height="300px" width="400px" 
-             style="background-color: white; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); padding: 10px;">
+             style="background-color: white; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); padding: 10px; border: none;">
       </td>
       <!-- Coding GIF -->
-      <td style="border: none;">
+      <td style="border: none; padding: 0;">
         <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3lheGEycG5xd3FwaDZjODJwZ3RqcDN0ZXR6dWplNzR4OHc3eHZmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" 
              alt="Coding GIF" height="222px" width="400px" 
-             style="border-radius: 15px; background-color: white; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); padding: 10px;">
+             style="border-radius: 15px; background-color: white; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); padding: 10px; border: none;">
       </td>
     </tr>
   </table>
-</div>
 </div>
