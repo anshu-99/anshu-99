@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Udbhav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/hi-manss/](https://www.linkedin.com/in/udbhav-ojha-354804216/))](https://www.linkedin.com/in/udbhav-ojha-354804216/)
+[![Linkedin Badge](https://img.shields.io/badge/-Udbhav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/udbhav-ojha-354804216/](https://www.linkedin.com/in/udbhav-ojha-354804216/))](https://www.linkedin.com/in/udbhav-ojha-354804216/)
 [![Gmail Badge](https://img.shields.io/badge/-udbhavsbg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:udbhavsbg@gmail.com)](mailto:udbhavsbg@gmail.com)  
 [![Instagram](https://img.shields.io/badge/-udbhaavv-c13584?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/udbhaavv._)
 
