@@ -3,7 +3,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=anshu-99&label=Profile%20views&color=0e75b6&style=flat" alt="anshu-99" />
 </p>
-<img align="right" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://giphy.com/gifs/web-development-L8K62iTDkzGX6 (https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3lheGEycG5xd3FwaDZjODJwZ3RqcDN0ZXR6dWplNzR4OHc3eHZmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif)" width="350px">
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3lheGEycG5xd3FwaDZjODJwZ3RqcDN0ZXR6dWplNzR4OHc3eHZmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="350px" alt="Coding GIF">
 
 - 🌱 I’m currently learning **Spring, Springboot**
 
